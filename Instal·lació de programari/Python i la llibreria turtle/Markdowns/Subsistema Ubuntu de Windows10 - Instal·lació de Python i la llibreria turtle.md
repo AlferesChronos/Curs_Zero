@@ -35,7 +35,7 @@ python3 ––version
 Potser aquesta comanda no funciona, així que alternativament es pot intentar:
 
 ```
-python3 ––V
+python3 –V
 ```
 
 I hauria d'apareixer un missatge amb una versió de Python 3.8.
@@ -121,7 +121,7 @@ Per comprovar que funciona, cal tancar i tornar a obrir la terminal. Després ca
 python3
 ```
 
-D'aquesta manera se'ns obrirà l'interpret de Python, el qual distingirem perquè on es comença a escriure té els tres caràctes `>>>`. Aleshores aquí mateix, escriurem i executarem el següent:
+D'aquesta manera se'ns obrirà l'interpret de Python, el qual distingirem perquè on es comença a escriure té els tres caràcters `>>>`. Aleshores aquí mateix, escriurem i executarem el següent:
 
 ```
 import turtle
