@@ -12,14 +12,14 @@ def tree(branch, t):
 
 def main():
     t = turtle.Turtle()
-    numBranches = 6
+    numBranches = 6 # Podeu canviar el número de branques
 
     t.left(90)
     t.up()
     t.backward(250)
     t.down()
     t.color("purple")
-    tree(6, t)
+    tree(numBranches, t)
 
     turtle.done()
 
