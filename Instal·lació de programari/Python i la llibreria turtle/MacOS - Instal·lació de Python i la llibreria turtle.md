@@ -16,6 +16,13 @@ Cal escriure a la terminal la següent línia (prement enter al final).
 brew install python3.8
 ```
 
+Si no funciona, proveu:
+
+```
+brew install python@3.8
+```
+
+
 Per comprovar que està instal·lat correctament podem executar el següent:
 
 ```
