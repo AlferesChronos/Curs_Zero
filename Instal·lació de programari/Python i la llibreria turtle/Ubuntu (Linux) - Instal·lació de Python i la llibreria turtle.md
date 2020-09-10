@@ -38,7 +38,7 @@ Cal escriure a la terminal cada una de les següent línies (prement enter al fi
 
 ```
 sudo apt update
-apt install python3-pip
+sudo apt install python3-pip
 ```
 
 Per comprovar que està instal·lat correctament podem executar el següent:
